@@ -7,7 +7,7 @@ public class Formato {
     public Formato(){
         
     }
-    
+    //comentario de prueba 
     public int eligeCurso(){
         int x;
         imprimirOpciones();
